@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="14562388fs"></ZoomEndTime>
+      <Cursor1Time time="2002000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="155"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/testbench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/simulated_system/pc" type="array">
+      <obj_property name="ElementShortName">pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/simulated_system/instruction" type="array">
+      <obj_property name="ElementShortName">instruction[31:0]</obj_property>
+      <obj_property name="ObjectShortName">instruction[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/data_to_mem" type="array">
+      <obj_property name="ElementShortName">data_to_mem[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_to_mem[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/address_to_mem" type="array">
+      <obj_property name="ElementShortName">address_to_mem[31:0]</obj_property>
+      <obj_property name="ObjectShortName">address_to_mem[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/write_enable" type="logic">
+      <obj_property name="ElementShortName">write_enable</obj_property>
+      <obj_property name="ObjectShortName">write_enable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/simulated_system/CPU/data_from_mem" type="array">
+      <obj_property name="ElementShortName">data_from_mem[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_from_mem[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/simulated_system/CPU/RD1out" type="array">
+      <obj_property name="ElementShortName">RD1out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RD1out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/simulated_system/CPU/RD2out" type="array">
+      <obj_property name="ElementShortName">RD2out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RD2out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/simulated_system/CPU/zero" type="logic">
+      <obj_property name="ElementShortName">zero</obj_property>
+      <obj_property name="ObjectShortName">zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/simulated_system/CPU/controller_inst/ALUcontrol" type="array">
+      <obj_property name="ElementShortName">ALUcontrol[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUcontrol[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/simulated_system/CPU/gprRegisters/registers" type="array">
+      <obj_property name="ElementShortName">registers[31:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">registers[31:0][31:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>

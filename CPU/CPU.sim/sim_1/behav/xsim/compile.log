@@ -1,0 +1,22 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive/CVUT/Semester5/APS/CPU/CPU.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive/CVUT/Semester5/APS/CPU/CPU.srcs/sources_1/new/compute_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module processor
+INFO: [VRFC 10-311] analyzing module pc
+INFO: [VRFC 10-311] analyzing module mux2
+INFO: [VRFC 10-311] analyzing module mux4
+INFO: [VRFC 10-311] analyzing module signExt
+INFO: [VRFC 10-311] analyzing module multiply4
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive/CVUT/Semester5/APS/CPU/CPU.srcs/sources_1/new/controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module controller
+INFO: [VRFC 10-311] analyzing module aluDecoder
+INFO: [VRFC 10-311] analyzing module opcodeDecoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive/CVUT/Semester5/APS/CPU/CPU.srcs/sources_1/new/data_instr_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-311] analyzing module data_mem
+INFO: [VRFC 10-311] analyzing module inst_mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive/CVUT/Semester5/APS/CPU/CPU.srcs/sources_1/new/gpr_registers.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module gprSet
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive/CVUT/Semester5/APS/CPU/CPU.srcs/sim_1/new/tb_cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
